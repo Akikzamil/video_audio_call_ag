@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383214655338",
+    "project_id": "agoratesting-91bf9",
+    "storage_bucket": "agoratesting-91bf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383214655338:android:4a4fd57b71efe46c967713",
+        "android_client_info": {
+          "package_name": "com.example.video_audio_call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383214655338-rghsq60d773p67ua6pbnu1bq886q61is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXbYhKFbhu2GXr8fw4dRha2AtsMguzLGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383214655338-rghsq60d773p67ua6pbnu1bq886q61is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
